@@ -1,5 +1,5 @@
 {
-  "name": "metacall-react-ssr-example",
+  "name": "metacall-basic-react-ssr-example",
   "version": "1.0.0",
   "description": "Basic example React Server-Side Rendering (SSR) application for deploying into MetaCall FaaS.",
   "license": "Apache-2.0",

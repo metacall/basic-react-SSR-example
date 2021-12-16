@@ -1,7 +1,7 @@
 {
-	"language_id": "ts",
-	"path": ".",
-	"scripts": [
-		"server.jsx"
-	]
+  "language_id": "ts",
+  "path": ".",
+  "scripts": [
+    "server.jsx"
+  ]
 }

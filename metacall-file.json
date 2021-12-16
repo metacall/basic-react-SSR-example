@@ -1,7 +1,7 @@
 {
-	"language_id": "file",
-	"path": ".",
-	"scripts": [
-		"build/bundle.js"
-	]
+  "language_id": "file",
+  "path": ".",
+  "scripts": [
+    "build/bundle.js"
+  ]
 }
