@@ -1,0 +1,28 @@
+{
+  "name": "metacall-react-ssr-example",
+  "version": "1.0.0",
+  "description": "Basic example React Server-Side Rendering (SSR) application for deploying into MetaCall FaaS.",
+  "license": "Apache-2.0",
+  "author": "Vicente Eduardo Ferrer Garcia <vic798@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metacall/basic-react-SSR-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/metacall/basic-react-SSR-example/issues"
+  },
+  "scripts": {
+    "build": "webpack build --config ./webpack.config.js --mode production",
+    "start": "echo 'TODO: CLI FaaS not implemented yet'"
+  },
+  "homepage": "https://metacall.io",
+  "dependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/plugin-transform-react-jsx": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "babel-loader": "^8.2.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "webpack-cli": "^4.9.1"
+  }
+}
