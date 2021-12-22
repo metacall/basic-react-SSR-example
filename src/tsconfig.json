@@ -1,0 +1,13 @@
+{
+  "include": [
+    "server.jsx"
+  ],
+  "compilerOptions": {
+    "target": "es6",
+    "allowJs": true,
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "jsx": "react",
+    "lib": ["es2016", "dom"]
+  }
+}
